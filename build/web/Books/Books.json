@@ -1,3 +1,348 @@
+ {"docs": [
 {
-    "name": "Usuario"
-}
+   "title_suggest": "Martine",
+   "publish_place": [
+    "Paris",
+    "London"
+   ],
+   "has_fulltext": false,
+   "language": [
+    "fre",
+    "eng"
+   ],
+   "edition_count": 5,
+   "edition_key": [
+    "OL22248060M",
+    "OL20913055M",
+    "OL14190984M",
+    "OL22081247M",
+    "OL17033826M"
+   ],
+   "last_modified_i": 1264857105,
+   "title": "Martine",
+   "publisher": [
+    "Illustrations",
+    "A. Michel",
+    "Year Book Press",
+    "[Stock",
+    "Albin Michel"
+   ],
+   "author_name": [
+    "Jean-Jacques Bernard"
+   ],
+   "seed": [
+    "/books/OL22248060M",
+    "/books/OL20913055M",
+    "/books/OL14190984M",
+    "/books/OL22081247M",
+    "/books/OL17033826M",
+    "/works/OL1441278W",
+    "/authors/OL150902A"
+   ],
+   "first_publish_year": 1922,
+   "publish_year": [
+    1922,
+    1923,
+    1925,
+    1953,
+    1934
+   ],
+   "key": "/works/OL1441278W",
+   "text": [
+    "OL22248060M",
+    "OL20913055M",
+    "OL14190984M",
+    "OL22081247M",
+    "OL17033826M",
+    "Jean-Jacques Bernard",
+    "OL150902A",
+    "pie  ce en cinq tableaux",
+    "pi\u00e8ce en cinq tableaux",
+    "pi\u00e8ce en cinq tableaux.",
+    "a play in five scenes",
+    "Martine",
+    "par Jean-Jacques Bernard ; repr\u00e9sent\u00e9e pour la premiere fois par les Compagnons de la Chim\u00e8re sur la scene des Mathurins, le 9 mai 1922, reprise a la baraque de la Chim\u00e8re, le 6 mai 1923.",
+    "Jean-Jacques Bernard.",
+    "translated by John Leslie Frith.",
+    "[de] Jean-Jacques Bernard.",
+    "/works/OL1441278W",
+    "Illustrations",
+    "A. Michel",
+    "Year Book Press",
+    "[Stock",
+    "Albin Michel"
+   ],
+   "publish_date": [
+    "1922",
+    "1923",
+    "1925",
+    "1953",
+    "1934"
+   ],
+   "author_key": [
+    "OL150902A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  },
+   {
+   "title_suggest": "ERIC PARTRIDGE IN HIS OWN WORDS",
+   "edition_key": [
+    "OL9221323M",
+    "OL7266609M"
+   ],
+   "cover_i": 7230830,
+   "isbn": [
+    "0025289608",
+    "9780025289604"
+   ],
+   "has_fulltext": true,
+   "text": [
+    "OL9221323M",
+    "OL7266609M",
+    "0025289608",
+    "9780025289604",
+    "Crystal.",
+    "ericpartridgeinh00eric",
+    "OL959059A",
+    "ERIC PARTRIDGE IN HIS OWN WORDS",
+    "Accessible book",
+    "Bibliography",
+    "English language",
+    "Protected DAISY",
+    "/works/OL4661918W",
+    "Scribner"
+   ],
+   "author_name": [
+    "Crystal."
+   ],
+   "ia_loaded_id": [
+    "ericpartridgeinh00eric"
+   ],
+   "seed": [
+    "/books/OL9221323M",
+    "/books/OL7266609M",
+    "/works/OL4661918W",
+    "/subjects/bibliography",
+    "/subjects/english_language",
+    "/subjects/protected_daisy",
+    "/authors/OL959059A"
+   ],
+   "ia": [
+    "ericpartridgeinh00eric"
+   ],
+   "author_key": [
+    "OL959059A"
+   ],
+   "subject": [
+    "Accessible book",
+    "Bibliography",
+    "English language",
+    "Protected DAISY"
+   ],
+   "title": "ERIC PARTRIDGE IN HIS OWN WORDS",
+   "ia_collection_s": "printdisabled;china;internetarchivebooks",
+   "first_publish_year": 1981,
+   "type": "work",
+   "ebook_count_i": 1,
+   "printdisabled_s": "OL9221323M",
+   "ia_box_id": [
+    "IA129622"
+   ],
+   "edition_count": 2,
+   "key": "/works/OL4661918W",
+   "id_goodreads": [
+    "4902476"
+   ],
+   "public_scan_b": false,
+   "publisher": [
+    "Scribner"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1345189146,
+   "id_librarything": [
+    "790343"
+   ],
+   "cover_edition_key": "OL9221323M",
+   "publish_year": [
+    1981
+   ],
+   "publish_date": [
+    "March 1, 1981"
+   ]
+  },
+  {
+   "title_suggest": "Amer Old Age Crisis",
+   "publisher": [
+    "Basic Books Inc.,U.S."
+   ],
+   "edition_key": [
+    "OL10277498M"
+   ],
+   "isbn": [
+    "9780465001255",
+    "0465001254"
+   ],
+   "has_fulltext": false,
+   "edition_count": 1,
+   "oclc": [
+    "8709449"
+   ],
+   "last_modified_i": 1304015586,
+   "title": "Amer Old Age Crisis",
+   "author_name": [
+    "Crystal."
+   ],
+   "seed": [
+    "/books/OL10277498M",
+    "/works/OL4661915W",
+    "/authors/OL959059A"
+   ],
+   "first_publish_year": 1984,
+   "publish_year": [
+    1984
+   ],
+   "key": "/works/OL4661915W",
+   "text": [
+    "OL10277498M",
+    "9780465001255",
+    "0465001254",
+    "Crystal.",
+    "8709449",
+    "OL959059A",
+    "Amer Old Age Crisis",
+    "/works/OL4661915W",
+    "Basic Books Inc.,U.S."
+   ],
+   "id_goodreads": [
+    "7010211"
+   ],
+   "publish_date": [
+    "August 29, 1984"
+   ],
+   "author_key": [
+    "OL959059A"
+   ],
+   "type": "work",
+   "ebook_count_i": 0
+  }, 
+  {
+   "title_suggest": "The witch, and the maid of honour",
+   "edition_key": [
+    "OL20612594M"
+   ],
+   "author_key": [
+    "OL6087153A"
+   ],
+   "has_fulltext": true,
+   "title": "The witch, and the maid of honour",
+   "last_modified_i": 1273151451,
+   "edition_count": 1,
+   "subject": [
+    "Accessible book"
+   ],
+   "author_name": [
+    "Witch"
+   ],
+   "ia_collection_s": "europeanlibraries",
+   "seed": [
+    "/books/OL20612594M",
+    "/works/OL13177184W",
+    "/subjects/accessible_book",
+    "/authors/OL6087153A"
+   ],
+   "first_publish_year": 1799,
+   "publish_year": [
+    1799
+   ],
+   "key": "/works/OL13177184W",
+   "text": [
+    "OL20612594M",
+    "Witch",
+    "witchandmaidhon00witcgoog",
+    "OL6087153A",
+    "The witch, and the maid of honour",
+    "Accessible book",
+    "/works/OL13177184W"
+   ],
+   "ia": [
+    "witchandmaidhon00witcgoog"
+   ],
+   "publish_date": [
+    "1799"
+   ],
+   "public_scan_b": true,
+   "type": "work",
+   "ebook_count_i": 1
+  },
+  {
+   "title_suggest": "Witch's Brew Spell Deck",
+   "edition_key": [
+    "OL8002620M"
+   ],
+   "cover_i": 601179,
+   "isbn": [
+    "9780811843706",
+    "081184370X"
+   ],
+   "has_fulltext": false,
+   "text": [
+    "OL8002620M",
+    "9780811843706",
+    "081184370X",
+    "Witch Bree",
+    "149158478",
+    "OL2833116A",
+    "36 Good Spells for Every Day (Witchs Brew)",
+    "Witch's Brew Spell Deck",
+    "/works/OL8484960W",
+    "Chronicle Books",
+    "ANY TIME YOU WANT TO FILL your space with an inspirational aroma, burn this incense for heightened sense."
+   ],
+   "author_name": [
+    "Witch Bree"
+   ],
+   "seed": [
+    "/books/OL8002620M",
+    "/works/OL8484960W",
+    "/authors/OL2833116A"
+   ],
+   "oclc": [
+    "149158478"
+   ],
+   "author_key": [
+    "OL2833116A"
+   ],
+   "title": "Witch's Brew Spell Deck",
+   "publish_date": [
+    "August 26, 2004"
+   ],
+   "type": "work",
+   "ebook_count_i": 0,
+   "edition_count": 1,
+   "key": "/works/OL8484960W",
+   "id_goodreads": [
+    "965411"
+   ],
+   "publisher": [
+    "Chronicle Books"
+   ],
+   "language": [
+    "eng"
+   ],
+   "last_modified_i": 1304066619,
+   "id_librarything": [
+    "1226442"
+   ],
+   "cover_edition_key": "OL8002620M",
+   "first_sentence": [
+    "ANY TIME YOU WANT TO FILL your space with an inspirational aroma, burn this incense for heightened sense."
+   ],
+   "publish_year": [
+    2004
+   ],
+   "first_publish_year": 2004
+  }
+ ]}
